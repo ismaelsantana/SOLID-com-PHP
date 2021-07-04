@@ -1,0 +1,20 @@
+{
+    "name": "ismael/solid-com-php",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "authors": [
+        {
+            "name": "Ismael Santana",
+            "email": "contatoismaelsantana@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "solid\\html\\": "src"
+        }
+    }
+
+}
